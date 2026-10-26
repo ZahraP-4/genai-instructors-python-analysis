@@ -119,7 +119,7 @@ The dashboard includes:
 - 5 charts
 - Interactive slicers for exploring survey results
 
-![GenAI Faculty Survey Dashboard](images/powerbi_dashboard.png)
+![GenAI Faculty Survey Dashboard](images/powerbi_dashboard.jpg)
 
 ## Limitations
 
