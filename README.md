@@ -110,15 +110,16 @@ This project helped me practice:
 
 ## Power BI Dashboard
 
-I also developed an interactive Power BI dashboard
-to explore GenAI adoption, perceptions, and concerns
-among university instructors.
+I created an interactive Power BI dashboard to
+visualize GenAI familiarity, usage, training needs,
+and concerns among university instructors.
 
 The dashboard includes:
 - 4 KPI cards
-- 5 interactive charts
-- Filters for gender, education, academic unit,
-  and teaching experience
+- 5 charts
+- Interactive slicers for exploring survey results
+
+![GenAI Faculty Survey Dashboard](images/powerbi_dashboard.png)
 
 ## Limitations
 
