@@ -39,6 +39,7 @@ The MIT license in this repository applies to my own code. The original dataset 
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+- Power BI
 
 ## Data Cleaning
 
@@ -60,6 +61,18 @@ I completed these steps:
 I wanted to find out how instructors' familiarity with GenAI differs across academic units.
 
 I calculated the percentage of instructors at each familiarity level and created a stacked bar chart to compare the academic units.
+
+## Power BI Dashboard
+
+I also developed an interactive Power BI dashboard
+to explore GenAI adoption, perceptions, and concerns
+among university instructors.
+
+The dashboard includes:
+- 4 KPI cards
+- 5 interactive charts
+- Filters for gender, education, academic unit,
+  and teaching experience
 
 **What I found:**
 
