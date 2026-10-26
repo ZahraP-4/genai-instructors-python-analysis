@@ -62,18 +62,6 @@ I wanted to find out how instructors' familiarity with GenAI differs across acad
 
 I calculated the percentage of instructors at each familiarity level and created a stacked bar chart to compare the academic units.
 
-## Power BI Dashboard
-
-I also developed an interactive Power BI dashboard
-to explore GenAI adoption, perceptions, and concerns
-among university instructors.
-
-The dashboard includes:
-- 4 KPI cards
-- 5 interactive charts
-- Filters for gender, education, academic unit,
-  and teaching experience
-
 **What I found:**
 
 - Business had the highest percentage of instructors with high GenAI familiarity among the identified academic units (95.8%).
@@ -108,7 +96,7 @@ It was mentioned by 50% of instructors with categorized concerns in Business and
 
 These percentages are based on instructors who provided valid, categorized concern responses in each academic unit.
 
-## 3. What I Learned
+## What I Learned
 
 This project helped me practice:
 
@@ -120,6 +108,17 @@ This project helped me practice:
 - Comparing groups using percentages.
 - Understanding and explaining data analysis results.
 
+## Power BI Dashboard
+
+I also developed an interactive Power BI dashboard
+to explore GenAI adoption, perceptions, and concerns
+among university instructors.
+
+The dashboard includes:
+- 4 KPI cards
+- 5 interactive charts
+- Filters for gender, education, academic unit,
+  and teaching experience
 
 ## Limitations
 
